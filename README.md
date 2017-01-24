@@ -1,5 +1,5 @@
 # WeChatAirKiss
-本协议是基于https://github.com/zhchbin/WeChatAirKiss修改的，感谢@zhchbin的分享，上面地址完整的实现了airkiss协议，但在调试过程中发现与嵌入式端并不匹配，故在原有基础上修改实现。
+本协议是基于https://github.com/zhchbin/WeChatAirKiss 修改的，感谢@zhchbin的分享，上面地址完整的实现了airkiss协议，但在调试过程中发现与嵌入式端并不匹配，故在原有基础上修改实现。
 
 声明：目前AirKiss协议已经发展到3.0版本（详见微信硬件平台），此版本应该还是基于最初的设计实现，仅供学习研究使用，不建议作为商业产品
 
